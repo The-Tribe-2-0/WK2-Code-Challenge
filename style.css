@@ -1,0 +1,29 @@
+
+header {
+  background-color: #444444;
+  color: rgb(108, 160, 165);
+  padding: 20px;
+  text-align: center;
+}
+body{
+  background-color:palevioletred;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+
+
+
+
+
+
